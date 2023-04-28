@@ -1,0 +1,35 @@
+# build output
+dist/
+.vercel/
+package-lock.json
+
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# Local
+*.local
+
+**/.DS_Store
+
+# Editor directories and files
+.idea
+配置项编辑器.ini
+\插件数据
+\使魔大战
+使魔大战图片（20230427）.zip
